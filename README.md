@@ -2,7 +2,7 @@
 
 asm arrch64, some personal project
 
-if you need to run asm arrch64, i suggest you to íntall package called "clang"
+if you need to run asm arrch64, i suggest you to install package called "clang"
 
 and then
 
